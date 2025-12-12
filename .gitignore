@@ -1,0 +1,5 @@
+data/mimic-iii/output_atc4/bio_pt
+data/mimic-iv/output_atc4/bio_pt
+scripts/saved/
+scripts/outstring.txt
+*pycache*
