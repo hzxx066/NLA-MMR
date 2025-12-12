@@ -20,6 +20,7 @@ You can start the training and inference process of the NLA-MMR model on the MIM
 ```shell
 bash run.sh
 ```
+(Execute in the ./scripts directory.)
 
 Among them, the core running commands for different datasets are as follows:
 1. **MIMIC-III Dataset**
